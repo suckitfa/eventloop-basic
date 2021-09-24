@@ -1,0 +1,14 @@
+{
+  "name": "eventloop-basic",
+  "version": "1.0.0",
+  "main": "MyPromise.js",
+  "scripts": {
+    "test": "promises-aplus-tests MyPromise"
+  },
+  "repository": "https://github.com/suckitfa/eventloop-basic.git",
+  "author": "suckitfa <254202042@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
